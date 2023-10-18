@@ -1,0 +1,262 @@
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\appsettings.Development.json
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\appsettings.json
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.exe
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.deps.json
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.runtimeconfig.json
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.pdb
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Autofac.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Azure.Core.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Azure.Identity.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Humanizer.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.CodeDom.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.ServiceProcess.ServiceController.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Persistent.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Persistent.pdb
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.AssemblyReference.cache
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.AssemblyInfoInputs.cache
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.AssemblyInfo.cs
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.CoreCompileInputs.cache
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.CopyComplete
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\refint\CSEData.Worker.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.pdb
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.genruntimeconfig.cache
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\ref\CSEData.Worker.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\appsettings.Development.json
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\appsettings.json
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.exe
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.deps.json
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.runtimeconfig.json
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.pdb
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Autofac.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Azure.Core.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Azure.Identity.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\HtmlAgilityPack.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Humanizer.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.AspNetCore.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Sinks.File.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.CodeDom.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.ServiceProcess.ServiceController.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Persistent.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Persistent.pdb
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.AssemblyReference.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.GeneratedMSBuildEditorConfig.editorconfig
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.AssemblyInfoInputs.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.AssemblyInfo.cs
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.CoreCompileInputs.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.CopyComplete
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\refint\CSEData.Worker.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.pdb
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.genruntimeconfig.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\ref\CSEData.Worker.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\appsettings.Development.json
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\appsettings.json
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.exe
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.deps.json
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.runtimeconfig.json
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\CSEData.Worker.pdb
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Autofac.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Azure.Core.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Azure.Identity.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\HtmlAgilityPack.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Humanizer.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.AspNetCore.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Serilog.Sinks.File.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.CodeDom.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Memory.Data.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.ServiceProcess.ServiceController.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Persistent.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\bin\Debug\net7.0\Persistent.pdb
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.AssemblyReference.cache
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.AssemblyInfoInputs.cache
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.AssemblyInfo.cs
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.CoreCompileInputs.cache
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.csproj.CopyComplete
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\refint\CSEData.Worker.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.pdb
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\CSEData.Worker.genruntimeconfig.cache
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\obj\Debug\net7.0\ref\CSEData.Worker.dll

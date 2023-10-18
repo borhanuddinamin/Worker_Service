@@ -1,0 +1,42 @@
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.deps.json
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.runtimeconfig.json
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.pdb
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.csproj.AssemblyReference.cache
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.AssemblyInfoInputs.cache
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.AssemblyInfo.cs
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.csproj.CoreCompileInputs.cache
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\refint\Persistent.dll
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.pdb
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.genruntimeconfig.cache
+D:\DevSkill\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\ref\Persistent.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.deps.json
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.runtimeconfig.json
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.pdb
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.csproj.AssemblyReference.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.GeneratedMSBuildEditorConfig.editorconfig
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.AssemblyInfoInputs.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.AssemblyInfo.cs
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.csproj.CoreCompileInputs.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\refint\Persistent.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.pdb
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.genruntimeconfig.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\ref\Persistent.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.deps.json
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.runtimeconfig.json
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Debug\net7.0\Persistent.pdb
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.csproj.AssemblyReference.cache
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.AssemblyInfoInputs.cache
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.AssemblyInfo.cs
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.csproj.CoreCompileInputs.cache
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\refint\Persistent.dll
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.pdb
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\Persistent.genruntimeconfig.cache
+F:\New folder (2)\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Debug\net7.0\ref\Persistent.dll

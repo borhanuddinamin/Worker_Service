@@ -1,0 +1,5 @@
+sc.exe delete CSEData.Worker
+sc.exe create CSEData.Worker binpath=F:\publish\CSEData.Worker.exe start=auto
+
+sc.exe create CSEData.Worker binpath=C:\Users\BorhanUddin\Music\new\CSEData.Worker.exe start=auto
+sc.exe create CSEData.Worker binpath="C:\Users\Borha\Music\New folder\CSEData.Worker.exe" start=auto

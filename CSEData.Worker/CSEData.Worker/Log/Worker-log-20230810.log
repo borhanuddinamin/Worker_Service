@@ -1,0 +1,48 @@
+2023-08-10 06:32:52.718 +06:00 [INF] Worker Application Running
+2023-08-10 07:03:12.356 +06:00 [INF] Worker Application Running
+2023-08-10 07:07:58.206 +06:00 [INF] Worker Application Running
+2023-08-10 07:11:28.967 +06:00 [ERR] The host was aborted.
+2023-08-10 07:11:38.839 +06:00 [ERR] The host was aborted.
+2023-08-10 07:19:35.222 +06:00 [INF] Worker Application Running
+2023-08-10 07:23:41.295 +06:00 [INF] Worker Application Running
+2023-08-10 07:27:26.309 +06:00 [INF] Worker Application Running
+2023-08-10 07:29:22.661 +06:00 [INF] Worker Application Running
+2023-08-10 07:29:39.697 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 07:32:15.648 +06:00 [INF] Worker Application Running
+2023-08-10 07:32:32.130 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 07:33:40.368 +06:00 [INF] Worker Application Running
+2023-08-10 07:33:55.981 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 07:34:13.203 +06:00 [INF] Worker Application Running
+2023-08-10 07:34:30.353 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 07:34:48.651 +06:00 [INF] Worker Application Running
+2023-08-10 07:35:06.031 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 07:37:54.381 +06:00 [INF] Worker Application Running
+2023-08-10 07:38:11.510 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 07:38:53.244 +06:00 [INF] Worker Application Running
+2023-08-10 07:39:12.673 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 07:42:27.731 +06:00 [INF] Worker Application Running
+2023-08-10 18:52:21.146 +06:00 [INF] Worker Application Running
+2023-08-10 18:57:49.171 +06:00 [INF] Worker Application Running
+2023-08-10 18:58:08.215 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 18:58:18.171 +06:00 [INF] Worker Application Running
+2023-08-10 18:58:38.718 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 18:58:55.124 +06:00 [INF] Worker Application Running
+2023-08-10 18:59:11.406 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 18:59:24.729 +06:00 [INF] Worker Application Running
+2023-08-10 18:59:41.509 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 18:59:42.697 +06:00 [INF] Worker Application Running
+2023-08-10 18:59:59.353 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 19:00:19.173 +06:00 [INF] Worker Application Running
+2023-08-10 19:00:35.401 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 19:21:10.430 +06:00 [INF] Worker Application Running
+2023-08-10 19:21:26.947 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 19:21:35.346 +06:00 [INF] Worker Application Running
+2023-08-10 19:21:51.956 +06:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-10 20:22:07.323 +06:00 [INF] Worker Application Running
+2023-08-10 20:22:07.449 +06:00 [ERR] An exception was thrown while activating λ:Microsoft.Extensions.Hosting.IHostedService[] -> CSEData.Worker.Worker.
+2023-08-10 20:23:08.708 +06:00 [INF] Worker Application Running
+2023-08-10 20:23:08.842 +06:00 [ERR] An exception was thrown while activating λ:Microsoft.Extensions.Hosting.IHostedService[] -> CSEData.Worker.Worker.
+2023-08-10 20:23:42.595 +06:00 [INF] Worker Application Running
+2023-08-10 20:23:42.721 +06:00 [ERR] An exception was thrown while activating λ:Microsoft.Extensions.Hosting.IHostedService[] -> CSEData.Worker.Worker.
+2023-08-10 20:24:16.159 +06:00 [INF] Worker Application Running
+2023-08-10 20:24:16.244 +06:00 [ERR] An exception was thrown while activating λ:Microsoft.Extensions.Hosting.IHostedService[] -> CSEData.Worker.Worker.

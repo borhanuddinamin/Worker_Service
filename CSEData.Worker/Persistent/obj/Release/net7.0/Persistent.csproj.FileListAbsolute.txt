@@ -1,0 +1,14 @@
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Release\net7.0\Persistent.deps.json
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Release\net7.0\Persistent.runtimeconfig.json
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Release\net7.0\Persistent.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\bin\Release\net7.0\Persistent.pdb
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\Persistent.csproj.AssemblyReference.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\Persistent.GeneratedMSBuildEditorConfig.editorconfig
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\Persistent.AssemblyInfoInputs.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\Persistent.AssemblyInfo.cs
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\Persistent.csproj.CoreCompileInputs.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\Persistent.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\refint\Persistent.dll
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\Persistent.pdb
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\Persistent.genruntimeconfig.cache
+F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\Persistent\obj\Release\net7.0\ref\Persistent.dll

@@ -1,0 +1,120 @@
+2023-08-13 02:53:49.040 +01:00 [INF] Worker Application Running
+2023-08-13 02:53:49.086 +01:00 [INF] Worker running at: "2023-08-13T02:53:49.0817839+01:00"
+2023-08-13 02:54:10.435 +01:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-13 02:55:52.014 +01:00 [INF] Worker Application Running
+2023-08-13 02:55:52.125 +01:00 [INF] Worker running at: "2023-08-13T02:55:52.1198197+01:00"
+2023-08-13 02:56:15.513 +01:00 [ERR] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 26 - Error Locating Server/Instance Specified)
+2023-08-13 02:57:19.477 +01:00 [INF] Worker Application Running
+2023-08-13 02:57:19.598 +01:00 [INF] Worker running at: "2023-08-13T02:57:19.5939399+01:00"
+2023-08-13 02:57:42.498 +01:00 [ERR] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 26 - Error Locating Server/Instance Specified)
+2023-08-13 02:58:43.006 +01:00 [INF] Worker Application Running
+2023-08-13 02:58:43.050 +01:00 [INF] Worker running at: "2023-08-13T02:58:43.0460424+01:00"
+2023-08-13 02:59:01.489 +01:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-13 03:00:02.994 +01:00 [INF] Worker Application Running
+2023-08-13 03:00:03.255 +01:00 [INF] Worker running at: "2023-08-13T03:00:03.2408819+01:00"
+2023-08-13 03:00:21.917 +01:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-13 03:01:23.002 +01:00 [INF] Worker Application Running
+2023-08-13 03:01:23.135 +01:00 [INF] Worker running at: "2023-08-13T03:01:23.1286448+01:00"
+2023-08-13 03:01:42.644 +01:00 [ERR] An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+2023-08-13 03:04:20.303 +01:00 [INF] Worker Application Running
+2023-08-13 03:04:20.353 +01:00 [INF] Worker running at: "2023-08-13T03:04:20.3497862+01:00"
+2023-08-13 03:05:22.497 +01:00 [INF] Worker running at: "2023-08-13T03:05:22.4970729+01:00"
+2023-08-13 03:06:22.663 +01:00 [INF] Worker running at: "2023-08-13T03:06:22.6628851+01:00"
+2023-08-13 03:07:22.797 +01:00 [INF] Worker running at: "2023-08-13T03:07:22.7970836+01:00"
+2023-08-13 03:08:23.571 +01:00 [INF] Worker running at: "2023-08-13T03:08:23.5714263+01:00"
+2023-08-13 03:09:23.688 +01:00 [INF] Worker running at: "2023-08-13T03:09:23.6883133+01:00"
+2023-08-13 03:10:23.820 +01:00 [INF] Worker running at: "2023-08-13T03:10:23.8203865+01:00"
+2023-08-13 03:11:23.975 +01:00 [INF] Worker running at: "2023-08-13T03:11:23.9753254+01:00"
+2023-08-13 03:12:24.729 +01:00 [INF] Worker running at: "2023-08-13T03:12:24.7297679+01:00"
+2023-08-13 03:13:25.469 +01:00 [INF] Worker running at: "2023-08-13T03:13:25.4695805+01:00"
+2023-08-13 03:14:25.651 +01:00 [INF] Worker running at: "2023-08-13T03:14:25.6509158+01:00"
+2023-08-13 03:15:26.416 +01:00 [INF] Worker running at: "2023-08-13T03:15:26.4166068+01:00"
+2023-08-13 03:16:27.157 +01:00 [INF] Worker running at: "2023-08-13T03:16:27.1578749+01:00"
+2023-08-13 03:17:27.635 +01:00 [INF] Worker running at: "2023-08-13T03:17:27.6357860+01:00"
+2023-08-13 03:18:28.348 +01:00 [INF] Worker running at: "2023-08-13T03:18:28.3482721+01:00"
+2023-08-13 03:19:29.116 +01:00 [INF] Worker running at: "2023-08-13T03:19:29.1165684+01:00"
+2023-08-13 03:20:29.581 +01:00 [INF] Worker running at: "2023-08-13T03:20:29.5817647+01:00"
+2023-08-13 03:21:30.342 +01:00 [INF] Worker running at: "2023-08-13T03:21:30.3426224+01:00"
+2023-08-13 03:22:30.807 +01:00 [INF] Worker running at: "2023-08-13T03:22:30.8072734+01:00"
+2023-08-13 03:23:31.519 +01:00 [INF] Worker running at: "2023-08-13T03:23:31.5193407+01:00"
+2023-08-13 03:24:31.998 +01:00 [INF] Worker running at: "2023-08-13T03:24:31.9981831+01:00"
+2023-08-13 03:25:32.511 +01:00 [INF] Worker running at: "2023-08-13T03:25:32.5112001+01:00"
+2023-08-13 03:26:33.001 +01:00 [INF] Worker running at: "2023-08-13T03:26:33.0014198+01:00"
+2023-08-13 03:27:33.747 +01:00 [INF] Worker running at: "2023-08-13T03:27:33.7476414+01:00"
+2023-08-13 03:28:34.220 +01:00 [INF] Worker running at: "2023-08-13T03:28:34.2206836+01:00"
+2023-08-13 03:29:35.019 +01:00 [INF] Worker running at: "2023-08-13T03:29:35.0194290+01:00"
+2023-08-13 03:30:35.479 +01:00 [INF] Worker running at: "2023-08-13T03:30:35.4788129+01:00"
+2023-08-13 03:31:37.704 +01:00 [INF] Worker running at: "2023-08-13T03:31:37.7043152+01:00"
+2023-08-13 03:32:38.178 +01:00 [INF] Worker running at: "2023-08-13T03:32:38.1785532+01:00"
+2023-08-13 03:33:38.640 +01:00 [INF] Worker running at: "2023-08-13T03:33:38.6403699+01:00"
+2023-08-13 03:34:39.097 +01:00 [INF] Worker running at: "2023-08-13T03:34:39.0976748+01:00"
+2023-08-13 03:35:39.547 +01:00 [INF] Worker running at: "2023-08-13T03:35:39.5477484+01:00"
+2023-08-13 03:36:39.978 +01:00 [INF] Worker running at: "2023-08-13T03:36:39.9782712+01:00"
+2023-08-13 03:37:40.402 +01:00 [INF] Worker running at: "2023-08-13T03:37:40.4025730+01:00"
+2023-08-13 03:38:40.832 +01:00 [INF] Worker running at: "2023-08-13T03:38:40.8328393+01:00"
+2023-08-13 03:39:41.270 +01:00 [INF] Worker running at: "2023-08-13T03:39:41.2707808+01:00"
+2023-08-13 03:40:45.798 +01:00 [INF] Worker running at: "2023-08-13T03:40:45.7983495+01:00"
+2023-08-13 03:41:49.422 +01:00 [INF] Worker running at: "2023-08-13T03:41:49.4227068+01:00"
+2023-08-13 14:37:43.607 +01:00 [INF] Worker running at: "2023-08-13T14:37:43.6071962+01:00"
+2023-08-13 14:37:43.911 +01:00 [ERR] BackgroundService failed
+System.Net.WebException: An error occurred while sending the request.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|44_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds)
+   at HtmlAgilityPack.HtmlWeb.Load(Uri uri, String method)
+   at CSEData.Worker.MarketScrap.ScrapData.WebDocument() in F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\MarketScrap\ScrapData.cs:line 20
+   at CSEData.Worker.MarketScrap.ScrapData.IsMarketOpen() in F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\MarketScrap\ScrapData.cs:line 38
+   at CSEData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\Worker.cs:line 53
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2023-08-13 14:37:43.971 +01:00 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.Net.WebException: An error occurred while sending the request.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|44_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds)
+   at HtmlAgilityPack.HtmlWeb.Load(Uri uri, String method)
+   at CSEData.Worker.MarketScrap.ScrapData.WebDocument() in F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\MarketScrap\ScrapData.cs:line 20
+   at CSEData.Worker.MarketScrap.ScrapData.IsMarketOpen() in F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\MarketScrap\ScrapData.cs:line 38
+   at CSEData.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in F:\Borhan-uddin-amin_Asp.net-batch8\CSEData.Worker\CSEData.Worker\Worker.cs:line 53
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
